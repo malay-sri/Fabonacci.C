@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int fa(int n)
+int fab(int n)
 {
     if (n==0)
     {
@@ -26,4 +26,5 @@ for( i = 0; i < num; i++)
     printf("%d",fab(i));
 }
 printf("\n");
+
 return 0;
