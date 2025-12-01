@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int fab(int n)
 {
     if (n==0)
@@ -28,3 +27,4 @@ for( i = 0; i < num; i++)
 printf("\n");
 
 return 0;
+
